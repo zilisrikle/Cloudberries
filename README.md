@@ -1,2 +1,2 @@
 # Cloudberries
-I write some small, eatable notes here
+I write some small, edible notes here
